@@ -6,4 +6,4 @@ Arduino Nano programming calculator for education and fun
 There is no complete, full-fledged working draft, but perhaps you will do it.
 <br>
 <a href="https://www.pcbway.com/project/shareproject/Programming_calculator_platform.html"><img src="https://www.pcbway.com/project/img/images/frompcbway.png" alt="PCB from PCBWay" /></a>
-<br>[![Watch the video]()](https://youtu.be/ZeHtA74SEKs)
+<br>[![Watch the video](2.jpg)](https://youtu.be/ZeHtA74SEKs)
