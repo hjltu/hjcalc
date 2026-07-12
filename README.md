@@ -5,7 +5,7 @@ Arduino Nano calculator with 5×5 keypad and 16×2 I2C LCD.
 **Version:** 30may26_v4  
 **Author:** hjltu@ya.ru (2019)  
 **License:** Provided as-is, without warranty
-
+![hjcalc](hjcalc.v01.jpg)
 ---
 
 ## Hardware
